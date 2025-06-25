@@ -19,3 +19,8 @@ In unix (Linux):
 ```
 go test -bench=. -benchmem
 ```
+
+## Run the test with coverage
+```
+go test -cover
+```
